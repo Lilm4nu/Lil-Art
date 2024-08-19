@@ -7,14 +7,14 @@ body {
   }
   
   header {
-    border-bottom: solid 2px  rgb(71, 142, 255);
+    border-bottom: solid 2px  rgb(254, 254, 245);
     padding: 20px;
     font-size: 32px;
-    color: rgb(0, 38, 255);
+    color: rgb(37, 36, 36);
   }
   
   .chamada {
-    background: rgb(28, 173, 218);
+    background: rgb(202, 203, 235);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -60,6 +60,6 @@ body {
 }
 
 .categoria h2 {
-    color: rgb(123, 57, 194);
+    color: rgb(0, 13, 255);
    
 }
